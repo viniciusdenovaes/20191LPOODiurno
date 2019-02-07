@@ -1,5 +1,3 @@
-import javax.sound.midi.Soundbank;
-
 public class Funcionario {
 	
 	static public int quantidadeDeFuncionarios = 0;
