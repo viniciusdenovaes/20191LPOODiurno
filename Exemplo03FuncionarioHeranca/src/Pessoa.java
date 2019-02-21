@@ -22,6 +22,7 @@ public class Pessoa {
 		System.out.println("Sou uma pessoa");
 		System.out.println("id: " + this.id);
 		System.out.println("nome: " + this.nome);
+		System.out.println();
 	}
 	
 	
