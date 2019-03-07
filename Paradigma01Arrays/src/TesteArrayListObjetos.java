@@ -5,10 +5,8 @@ public class TesteArrayListObjetos {
 		
 		ArrayList<Gato> gatos = new ArrayList<Gato>();
 		
-		System.out.println("aqui");
-		
 		for(int i=0; i<7; i++) {
-			Gato gato = new Gato("Rick0" + i);
+			Gato gato = new Gato("Rick" + i);
 			gatos.add(gato);
 		}
 		
