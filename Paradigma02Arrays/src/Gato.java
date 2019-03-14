@@ -1,5 +1,5 @@
 
-public class Gato {
+public class Gato extends Object{
 	
 	String nome;
 	int idade;
